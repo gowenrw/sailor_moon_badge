@@ -52,9 +52,10 @@ The kit contains the following items:
 
 * 1x PCB
 * 1x Lanyard
-* lx 1x20 Male Header Pins
+* lx 1x20 pin Male Header
 * 1x CR2032 Battery Holder
 * 1x CR2032 Battery
+* 2x 1x5 pin Female Header
 * 2x 22k ohm Resistor
 * 2x 12k ohm Resistor
 * 2x 10k ohm Resistor
@@ -75,7 +76,10 @@ The back of the pcb has clear labels of where to place the components.
 
 Take note of the direction of the transistors (which way the flat side faces) and make sure you place the proper transistor type in each space (the labels on the transistors are very small but are the only way to tell the difference between the two types).
 
-Take note of the capacitor polarity inserting the negative leg into the negative hole which indicated by solid silkscreen on the pcb.
+Take note of the capacitor polarity inserting the negative leg into the negative hole which is indicated by solid silkscreen on the pcb.
+The capacitors are labeled with the uF value and have a solid stripe on the negative leg side.
+
+The resistors are bidirectional so it does not matter which way they are inserted as long as the proper resistance ohm value is used for each.  The pcb has the resistor values clearly labeled and while the resistors have a color code to show thier value, for your convinience the value has been written on the paper attached to them.
 
 ![sailor moon components bottom](components_bottom.jpg)
 
