@@ -52,7 +52,7 @@ The kit contains the following items:
 
 * 1x PCB
 * 1x Lanyard
-* lx 1x20 pin Male Header
+* 1x 1x20 pin Male Header
 * 1x CR2032 Battery Holder
 * 1x CR2032 Battery
 * 2x 1x5 pin Female Header
@@ -92,3 +92,7 @@ Take note of the direction of the LEDs as labeled on the PCB.  The label shows t
 The female headers at the bottom are not part of the circuit and are thus optional.
 
 The female headers allow for the insertion of the long male header strip to form a display stand for the badge.
+
+# Repository
+
+The repository containing all the artifacts for this badge is located [HERE](https://github.com/gowenrw/sailor_moon_badge)
