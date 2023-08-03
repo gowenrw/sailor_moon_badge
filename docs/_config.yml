@@ -1,0 +1,5 @@
+remote_theme: zivong/jekyll-theme-hamilton
+plugins:
+- jekyll-theme-hamilton
+title: Sailor Moon Badge
+description: Sailor Moon Badge Documentation
